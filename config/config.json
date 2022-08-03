@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "clarington-pie-chart-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/claringtonPieChart/ClaringtonPieChartWebPart.js",
+          "manifest": "./src/webparts/claringtonPieChart/ClaringtonPieChartWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "ClaringtonPieChartWebPartStrings": "lib/webparts/claringtonPieChart/loc/{locale}.js"
+  }
+}

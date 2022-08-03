@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "clarington-dashboard-webparts-client-side-solution",
+    "id": "81b8cabd-2de8-4808-8455-eacca7fad10d",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.15.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "Clarington Dashboard Webparts description"
+      },
+      "longDescription": {
+        "default": "Clarington Dashboard Webparts description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "clarington-dashboard-webparts Feature",
+        "description": "The feature that activates elements of the clarington-dashboard-webparts solution.",
+        "id": "37404980-6878-4c1d-b51f-372a5f4670f5",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/clarington-dashboard-webparts.sppkg"
+  }
+}
