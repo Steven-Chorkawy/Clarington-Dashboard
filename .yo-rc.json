@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.15.2",
+    "libraryName": "clarington-dashboard",
+    "libraryId": "b93bc593-5d06-4a55-b6aa-16a12fa2f003",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "Clarington-Dashboard",
+    "solutionShortDescription": "Clarington-Dashboard description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
